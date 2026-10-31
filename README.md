@@ -1,31 +1,29 @@
 # ML_Assignment3_Regression
 
-## Μηχανική Μάθηση - 3η Εργασία – Regression problems
+## Machine Learning – Assignment 3: Regression Problems
 
-Ιανουάριος 2026
+January 2026
 
-Τσιμπίνη Πετρούλα ics23085.  
-Κενανίδου Σωτηρία iis23162.  
-Κουιμτζίδου Ιορδάνα iis23049.   
-Τιντικάκη Καλλιόπη Μαρία ics23088.   
+- Petroula Tsimpini (ics23085)
+- Sotiria Kenanidou (iis23162)
+- Iordana Kouimtzidou (iis23049)
+- Kalliopi Maria Tintikaki (ics23088)
 
-## Αντικείμενο της εργασίας
+## Assignment Description
 
-[3η εργασία Regression](3η%20εργασία%20Regression.pdf)
+[Assignment 3 – Regression](3η%20εργασία%20Regression.pdf)
 
-
-## Κωδικας σε μορφη python notebook για google colab
+## Code (Python notebook for Google Colab)
 
 [ML_Assignment3_Regression.ipynb](ML_Assignment3_Regression.ipynb)
 
-## Πώς να τρέξετε το notebook στο Google Colab
+## How to Run the Notebook in Google Colab
 
-1. Open Google Colab
-2. Click on "File" > "Upload notebook"
-3. Select ML_Assignment3_Regression.ipynb from your local machine and upload it.
-4. Once the notebook is uploaded, you can run the whole notebook by clicking on "Runtime" > "Run all" or run individual cells by clicking on the play button next to each cell.
+1. Open [Google Colab](https://colab.research.google.com/).
+2. Click **File** > **Upload notebook**.
+3. Select `ML_Assignment3_Regression.ipynb` from your computer and upload it.
+4. Once uploaded, run the whole notebook with **Runtime** > **Run all**, or run individual cells by clicking the play button next to each one.
 
-## Aποτελέσματα και Συμπεράσματα     
+## Results and Conclusions
 
-[Πρόβλεψη Εξέλιξης της Νόσου του Διαβήτη με χρήση Μοντέλων Παλινδρόμησης](diabetes_regression_report.pdf)
-
+[Predicting Diabetes Progression Using Regression Models](diabetes_regression_report.pdf)
